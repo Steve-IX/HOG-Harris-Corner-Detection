@@ -1,4 +1,4 @@
-### HOG & Harris Corner Detection (MATLAB) — SCC366 Media Coding & Processing · CW 2
+### HOG & Harris Corner Detection (MATLAB) — SCC366 Media Coding & Processing · 
 
 A compact MATLAB project that re-implements two classic feature-extraction algorithms **from scratch** and analyses their robustness.&#x20;
 
